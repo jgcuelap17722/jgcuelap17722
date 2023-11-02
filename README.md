@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jose Cuela</h1>
 <h3 align="center">I am a Full Stack Developer with studies in Computer Science and Informatics. I have been working with the following technologies: HTML, CSS, Javascript, React, Redux, Node.js, Express, Postgres SQL, Sequelize, Mysql. With creative ideas, problem solving, teamwork, communication and autonomy. Currently looking to be part of a leading team in web development work.</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Microservices**
 
 - 📫 How to reach me **jgcuelap@gmail.com**
 
